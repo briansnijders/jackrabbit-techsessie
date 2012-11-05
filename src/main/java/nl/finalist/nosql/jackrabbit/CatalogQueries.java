@@ -13,14 +13,14 @@ public class CatalogQueries {
 	// Query description
 	// Find the values of property 'catalog:color' in nodes of type nt:unstructured, 
 	// which contain an attribute 'catalog:color'
-	// This is to illustrate we can query a specific single-value custom property, yielding a result ONLY the brand
+	// This is to illustrate we can query a specific single-value custom property, yielding a result with ONLY the brand
 	public static final String ALL_CAR_COLORS_XPATH 	= "";
 	public static final String ALL_CAR_COLORS_SQL 		= "";
 
 	// Query description
 	// Find the values of property 'catalog:enginecapacity' in nodes of type nt:unstructured, 
 	// which contain an attribute 'catalog:enginecapacity'
-	// This is to illustrate we can query a specific multi-value custom property, yielding a result ONLY the engine capacities
+	// This is to illustrate we can query a specific multi-value custom property, yielding a result with ONLY the engine capacities
 	public static final String ALL_CAR_ENGINES_XPATH 	= "";
 	public static final String ALL_CAR_ENGINES_SQL 		= "";
 
