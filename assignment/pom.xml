@@ -45,7 +45,7 @@
 							<goal>java</goal>
 						</goals>
 						<configuration>
-							<mainClass>nl.finalist.nosql.jackrabbit.CatalogApp</mainClass>
+							<mainClass>nl.finalist.nosql.jackrabbit.CatalogBootstrapper</mainClass>
 							<systemProperties>
 								<systemProperty>
 									<key>org.apache.jackrabbit.repository.conf</key>
