@@ -12,3 +12,6 @@
 */.settings
 *.project
 *.classpath
+
+# Logs #
+*.log
