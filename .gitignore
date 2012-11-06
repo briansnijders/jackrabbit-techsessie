@@ -6,9 +6,9 @@
 *.ear
 
 # Build folders #
-/target
+*/target
 
 # Eclipse #
-/.settings
-.project
-.classpath
+*/.settings
+*.project
+*.classpath
